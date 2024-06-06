@@ -59,7 +59,4 @@
 
 
 
-
-#InstagramScraper #ChromeExtension #DataExtraction #WebScraping #JavaScript #InstagramFollowerScraperChromeExtension #InstagramFollowerScraperExtension #FollowerScraper
-
 #استخراج-اینستاگرام #اکستنشن-کروم #استخراج-وب #اکستنشن-کروم-استخراج-فالوورهای-اینستاگرام #استخراج-فالوورهای-ایسنتاگرام #استخراج-فالوور
